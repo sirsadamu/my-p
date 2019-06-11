@@ -1,0 +1,13 @@
+body{background-color: #8b5d35;
+    text-color:white;}
+p{color:white;
+    text-align:left;
+    font-size:150%;}
+h1{color:green;}
+b{font-size:140%;
+    color:green;
+    text-align:center;}
+u{font-size:100%;
+    color:yellow;
+    text-align:center;}
+i{color:blue;}
